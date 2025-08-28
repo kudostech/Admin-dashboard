@@ -69,9 +69,9 @@ src/
  │   ├─ ChartCard.jsx
  │   └─ UserTable.jsx
  ├─ screenshots/
- │   ├─ desktop.png
- │   ├─ tablet.png
- │   └─ mobile.png
+ │   ├─ Desktop.png
+ │   ├─ Tablet.png
+ │   └─ Mobile.png
  ├─ pages/
  │   └─ Dashboard.jsx
  ├─ App.jsx
