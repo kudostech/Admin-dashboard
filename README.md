@@ -36,10 +36,10 @@ Designed for professional portfolios to showcase **frontend development skills**
 ![Desktop View](./src/screenshots/Desktop.png)
 
 - **Tablet View**  
-![Tablet View](./src/screenshots/tablet.png)
+![Tablet View](./src/screenshots/Tablet.png)
 
 - **Mobile View**  
-![Mobile View](./src/screenshots/mobile.png)
+![Mobile View](./src/screenshots/Mobile.png)
 
 ---
 
