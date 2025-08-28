@@ -30,8 +30,6 @@ Designed for professional portfolios to showcase **frontend development skills**
 
 ## 📸 Screenshots
 
-> Add screenshots here after running locally or deploying
-
 - **Desktop View**  
 ![Desktop View](./src/screenshots/Desktop.png)
 
