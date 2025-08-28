@@ -63,19 +63,19 @@ The dashboard will be available at http://localhost:5173 (Vite default port)
 
 ## ✅ Folder Structure
 src/
- ├─ components/
- │   ├─ Header.jsx
- │   ├─ Sidebar.jsx
- │   ├─ ChartCard.jsx
- │   └─ UserTable.jsx
- ├─ screenshots/
- │   ├─ desktop.png
- │   ├─ tablet.png
- │   └─ mobile.png
- ├─ pages/
- │   └─ Dashboard.jsx
- ├─ App.jsx
- └─ main.jsx
+├─ components/
+│ ├─ Header.jsx
+│ ├─ Sidebar.jsx
+│ ├─ ChartCard.jsx
+│ └─ UserTable.jsx
+├─ screenshots/
+│ ├─ desktop.png
+│ ├─ tablet.png
+│ └─ mobile.png
+├─ pages/
+│ └─ Dashboard.jsx
+├─ App.jsx
+└─ main.jsx
 
 ---
 
